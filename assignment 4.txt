@@ -1,0 +1,10 @@
+*GridSearchCV: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+*label encoder : https://www.youtube.com/watch?v=UtgrhBr3kTw&ab_channel=RachitToshniwal
+
+
+
+
+-----------------------------------------------------------
+remarks:
+-lezem ('readonly/test.csv') fel notebook w ('/test.csv') fel submission
+-----------------------------------------------------------

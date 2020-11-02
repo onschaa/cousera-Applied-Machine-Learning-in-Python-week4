@@ -1,0 +1,37 @@
+*NAIVE BAYES*
+* to understand Naive Bayes: https://www.youtube.com/watch?v=O2L2Uv9pdDA&ab_channel=StatQuestwithJoshStarmer
+-the probability of discrete = likelihood
+-naive Bayes has high bias because it ignores relationships betwwen words
+but it works well in practice, it has low variance
+
+* to understand Gaussian Naive Bayes: https://www.youtube.com/watch?v=H3EjCKtlVog&ab_channel=StatQuestwithJoshStarmer
+log to avoid underflow
+
+* to understand Cross Validation : https://www.youtube.com/watch?v=fSytzGwwBVw&ab_channel=StatQuestwithJoshStarmer
+
+* to understand Cross Validation (long and detailed) : https://www.youtube.com/watch?v=6dbrR-WymjI&ab_channel=DataSchool
++notebook: https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb
+remarks:
+-bias fel train data wel variance fel test data
+-(knn)high k high bias low variance
+-(knn) higher K lower complexity
+
+*quote XD SS: Data is the sword of the 21st century, those who wield it well, the Samurai 
+------------------------------------------------------------------
+*RANDOM FOREST*
+* to understand Decision Trees: https://www.youtube.com/watch?v=7VeUPuFGJHk&ab_channel=StatQuestwithJoshStarmer
+* to understand Random Forests:https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer
+------------------------------------------------------------------
+*NEURAL NETWORKS*
+* to understand Neural Networks : https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown
+------------------------------------------------------------------
+RAPPEL:
+Multiple regression: https://www.youtube.com/watch?v=zITIFTsivN8&ab_channel=StatQuestwithJoshStarmer
+t-tests and ANOVA: https://www.youtube.com/watch?v=NF5_btOaCig&ab_channel=StatQuestwithJoshStarmer
+Ridge (L2) Regression : https://www.youtube.com/watch?v=Q81RR3yKn30&t=2s&ab_channel=StatQuestwithJoshStarmer
+--------------------------------------------------------------------
+Neural Networks and Backpropogation : https://www.youtube.com/watch?v=X8SPO875mQY&ab_channel=TheSemicolon
+--------------------------------------------------------------------
+Neural network can either be supervised or unsupervised.
+Deep learning can be supervised, semi-supervised or unsupervised.
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. 
